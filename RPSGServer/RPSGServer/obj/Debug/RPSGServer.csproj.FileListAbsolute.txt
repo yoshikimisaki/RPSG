@@ -1,0 +1,1 @@
+c:\users\yomatsuda\documents\visual studio 2012\Projects\RPSGServer\RPSGServer\bin\Debug\RPSGServer.exe.config
